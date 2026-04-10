@@ -1,4 +1,4 @@
-## Watch this snake eat my contributions
+## Watch these creatures eat my contributions
 
 <p align="center">
   <img src="https://github.com/Diviify/Diviify/blob/output/pacman-contribution-graph-dark.svg" />
