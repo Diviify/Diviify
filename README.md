@@ -1,4 +1,8 @@
-## Hi there 👋
+## Watch this snake eat my contributions
+
+<p align="center">
+  <img src="https://github.com/Diviify/Diviify/blob/output/pacman.svg" />
+</p>
 
 <!--
 **Diviify/Diviify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
