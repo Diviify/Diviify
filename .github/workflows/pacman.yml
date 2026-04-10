@@ -17,8 +17,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Diviify
-          outputs: |
-            dist/pacman.svg?palette=github-dark&color_snake=#FFD700&color_dots=#00FFAA,#00CC88,#009966,#006644,#003322
+          outputs:
+            dist/pacman.svg?palette=github-dark&color_snake=#FFD700&color_dots=#00FFAA,#00CC88,#009966,#006644,#003322&animation_duration=5
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
